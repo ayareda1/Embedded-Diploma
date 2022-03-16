@@ -1,0 +1,2 @@
+# Temperature Sensor Project
+here we have a temperature sensor which controls 3 leds and buzzer where when the temp less than 20C a yellow led will ON while if the Temp is heigher the 20C and less than 40C a green led will ON and if the temp is hiegher than 40C a red Led and a Buzzer will turn ON  
