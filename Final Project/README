@@ -1,0 +1,5 @@
+#This Project is a simple model for SMART Home
+at the Door the owner is asked to enter the password to be able to enter the house , the door won't be open until the owner enter the right password.
+after entering the right password the door automatically opend and the lights of the home opens
+for more security the owner is asked to enter anither password when he enter the house and if the passeword is incorrect a red led is ON and a Buzzer will be ON until the owner enters the correct password
+also we have a fan which i controlled by a temperature sensor as if the temperature is higher than 40C the fan is ON otherwise it's OFF
